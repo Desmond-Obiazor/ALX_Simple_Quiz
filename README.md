@@ -1,1 +1,1 @@
-I'll be creating a simple app in this project to practice and understand javascript
+I'll be creating a simple quiz application and calculator in this project to practice and understand javascript
